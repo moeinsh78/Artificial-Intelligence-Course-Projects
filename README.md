@@ -1,5 +1,6 @@
 # Artificial-Intelligence-Course-Projects
 
+In this course, five different projects were conducted each of which concentrated on a particular concept of artificial intelligence. Their full description is available in the relative directory. Besides, a brief description of each project has been included in the following: <fontsize="1">  
 • Neural Network: Designed a lung disease recognizer in shape of a 3-layer neural network, trained by images of sample lung CT Scan records. The
 network had the ability of recognizing the disease showed by input CT Scan images and classifying them into 3 distinctive classes, each representing
 a specific lung disease.

@@ -21,3 +21,5 @@ These heuristics were defined as follows:
 A analytic comparison between these algorithms is included in the report file, in Persian. The table below which is the result of running the algorithms on test2.txt input file, can be informative enough to compare these algorithms and gain some insights about them.
 
 ![alt text](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Search/table.JPG)
+
+For example, time-inefficiency of IDS algorithm is obvious due to the huge number of visited states. More importantly, it can be seen that Weighted A-star algorithm is not admissible since it has failed to find the shortest path, although it enhances the execution time significantly.

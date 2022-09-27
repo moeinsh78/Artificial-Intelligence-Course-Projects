@@ -12,7 +12,7 @@ Designed a system to estimate house prices based on their attributes. The system
 Designed a comment classifier able to detect positive and negative sentiment in users’ comments based on the conditional probabilities calculated by ”Bag of Words” technique.
 
 ### Genetic Project: 
-Solved a problem using genetically evolved solutions, known as chromosomes, in a reasonable amount of time. In this problem we were supposed to find the right combination of six logic gates, matched with a given truth table.
+Solved a problem using genetic algorithms inspired by nature and natural selection, in which genetically evolved solutions -known as chromosomes- are generated and evaluated in terms of closeness and similarity to the actual solution. In this problem, we were supposed to find the correct combination of six logic gates, matched with a given truth table.
 
 ### Search Project: 
 Designed a game simulating snake moves in a pre-defined table in order to execute informed and uninformed search algorithms (such as BFS, A-star etc.), and compare their performance in terms of efficiency, admissibility and consistency. These search algorithms were used to find the shortest path for the snake to reach a final state.

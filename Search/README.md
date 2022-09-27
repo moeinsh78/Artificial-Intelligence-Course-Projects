@@ -18,4 +18,6 @@ These heuristics were defined as follows:
 * h2: the total score of the seeds left in the table.
 
 ## Results:
-A analytic comparison between these algorithms is included in the report file, in Persian. The table below, can be informative enough to compare these algorithms and gain some insights about them
+A analytic comparison between these algorithms is included in the report file, in Persian. The table below which is the result of running the algorithms on test2.txt input file, can be informative enough to compare these algorithms and gain some insights about them.
+
+![alt text](Search/table.JPG)

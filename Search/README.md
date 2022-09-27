@@ -4,7 +4,7 @@
 To design and compare the performance of informed and uninformed search algorithms such as BFS, IDS, A-star and Weighted A-star in a simulation of snake game.
 
 ## Implementation:
-In this project, we simulated a snake game in which a snake with an initial body length of 1 was supposed to find the most efficient path to eat all the seeds in the game table. The game environment information -such as table dimensions, snake's initial location, seeds location and their score (can be 1 or 2 and seeds with a score of 2 should be eaten twice)- are described by the user in a sample input file.  
+In this project, we simulated a snake game in which a snake with an initial body length of 1 was supposed to find the most efficient path to eat all the seeds in the game table, using python programming language. The game environment information -such as table dimensions, snake's initial location, seeds location and their score (can be 1 or 2 and seeds with a score of 2 should be eaten twice)- are described by the user in a sample input file.  
   
 These are some basic rules of this game:  
 * The snake will grow from its tale side by eating the seeds.
@@ -18,4 +18,4 @@ These heuristics were defined as follows:
 * h2: the total score of the seeds left in the table.
 
 ## Results:
-Full comparison between these algorithms is included in the report file, in Persian. The table below, can be informative enough to compare these algorithms 
+A analytic comparison between these algorithms is included in the report file, in Persian. The table below, can be informative enough to compare these algorithms and gain some insights about them

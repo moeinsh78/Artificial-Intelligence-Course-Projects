@@ -1,24 +1,21 @@
-# Artificial-Intelligence-Course-Projects
+# Genetic-Algorithms-Project
 
-In this course, five different projects were conducted each of which concentrated on a particular concept of artificial intelligence. Their full description is available in the relative directory. Besides, a brief description of each project has been included in the following:
+## Objective:
+To design and compare the performance of informed and uninformed search algorithms such as BFS, IDS, A-star and Weighted A-star in a simulation of snake game.
 
-### Neural Network: 
-Designed a lung disease recognizer in shape of a 3-layer neural network, trained by images of sample lung CT Scan records. The
-network had the ability of recognizing the disease showed by input CT Scan images and classifying them into 3 distinctive classes, each representing
-a specific lung disease.
+## Implementation:
+In this project, we simulated a snake game in which a snake with an initial body length of 1 was supposed to find the most efficient path to eat all the seeds in the game table, using python programming language. The game environment information -such as table dimensions, snake's initial location, seeds location and their score (can be 1 or 2 and seeds with a score of 2 should be eaten twice)- are described by the user in a sample input file.  
+  
+These are some basic rules of this game:  
+* The snake will grow from its tale side by eating the seeds.
+* The snake cannot collide with its own body. In other words, moving in such a direction wouldn't be considered as a possible move. 
+* There are no barriers in the game table. The snake will enter from the opposite side of the table by exiting from one of the edges of the table. 
 
-### Machine Learning: 
-Designed a system to estimate house prices based on their attributes. The system was trained by a dataset from Kaggle website
-containing several houses prices and their features. For this purpose, the dataset was pre-processed and several machine learning models were
-tested and their pros and cons were pointed out.
+After the game environment and rules being implemented, multiple search algorithms were executed and their performance were discussed by comparing their execution time, number of the visited states, **consistency and admissibility** ; BFS and IDS as uninformed search algorithms and A-star and Weighted A-star as informed search algorithms with 2 different heuristics for each of them. 
+  
+These heuristics were defined as follows:
+* h1: the number of the seeds left uneaten in the table.
+* h2: the total score of the seeds left in the table.
 
-### NLP-Naive Bayes: 
-Designed a comment classifier able to detect positive and negative sentiment in users’ comments based on the conditional
-probabilities calculated by ”Bag of Words” technique.
+## Results:
 
-### Genetic Project: 
-Solved a problem using genetically evolved solutions, in a reasonable amount of time. In this problem we were supposed to find
-the right combination of six logic gates, matched with a given truth table.
-
-### Search Project: 
-Designed a game simulating snake moves in

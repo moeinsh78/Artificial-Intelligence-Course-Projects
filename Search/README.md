@@ -1,7 +1,7 @@
 # Search-Algorithms-Project
 
 ## Objective:
-To design and compare the performance of informed and uninformed search algorithms such as BFS, IDS, A-star and Weighted A-star in a simulation of snake game.
+To design and compare the performance of informed and uninformed search algorithms such as BFS, IDS, A-star and Weighted A-star in a simulation of Snake game.
 
 ## Implementation:
 In this project, we simulated a snake game in which a snake with an initial body length of 1 was supposed to find the most efficient path to eat all the seeds in the game table, using python programming language. The game environment information -such as table dimensions, snake's initial location, seeds location and their score (can be 1 or 2 and seeds with a score of 2 should be eaten twice)- are described by the user in a sample input file.  

@@ -14,4 +14,4 @@ First, we should have created a random initial population consisting of individu
 ## Result:
 In the image below, the log of one of the executions of the code is demonstrated. Accordingly, the correct combination has been found after 47 levels of genetic evolution in a relatively short time. 
 
-![alt text](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Search/table.JPG)
+![alt text](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Genetic/output.png)

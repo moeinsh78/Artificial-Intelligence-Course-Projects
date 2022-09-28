@@ -1,4 +1,4 @@
-# Genetic-Algorithms-Project
+# Genetic Algorithms Project
 
 ## Objective:
 To get familiar with the process of population evolution by using the inspirations of natural selection amongst a randomly generated initial population and how it is applied to find solutions to modern problems.

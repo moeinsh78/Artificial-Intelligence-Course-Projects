@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Course-Projects
+# Artificial Intelligence Course Projects
 
 In this course, five different projects were conducted, each of which concentrated on a particular concept of artificial intelligence. Their full description is available in the relative directory. Besides, a brief description of each project is included in the following:
 

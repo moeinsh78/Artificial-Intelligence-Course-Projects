@@ -9,7 +9,7 @@ Designed a lung disease recognizer in the shape of a 3-layer neural network, tra
 Designed a system to estimate house prices based on their attributes. The system was trained by a dataset from Kaggle website containing several house prices and their features. For this purpose, the dataset was pre-processed, several machine learning models were tested, and their pros and cons were pointed out.
 
 ### NLP-Naive Bayes: 
-Designed a comment classifier able to detect positive and negative sentiment in users’ comments based on the conditional probabilities calculated by ”Bag of Words” technique.
+Designed a comment classifier to detect positive and negative sentiment in users’ comments based on the conditional probabilities calculated by ”Bag of Words” technique.
 
 ### Genetic Project: 
 Solved a problem using genetic algorithms inspired by nature and natural selection, in which genetically evolved solutions -known as chromosomes- are generated and evaluated in terms of closeness and similarity to the actual solution. In this problem, we were supposed to find the correct combination of six logic gates matched with a given truth table.

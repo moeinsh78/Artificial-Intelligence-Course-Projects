@@ -1,4 +1,4 @@
-# Search-Algorithms-Project
+# Search Algorithms Project
 
 ## Objective:
 To design and compare the performance of informed and uninformed search algorithms such as BFS, IDS, A-star and Weighted A-star in a simulation of the Snake game.

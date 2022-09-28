@@ -1,4 +1,4 @@
-# NLP-Naive-Bayes-Project
+# NLP/Naive Bayes Project
 
 ## Objective: 
 To classify user comments about some products into "Recommending" and "Non-Recommending" comments, using Naive Bayes classifier. 

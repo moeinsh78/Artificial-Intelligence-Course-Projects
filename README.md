@@ -13,7 +13,7 @@ Designed a lung disease recognizer in the shape of a 3-layer neural network, tra
 [IPYNB Notebook for the first phase](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Neural%20Network/CA5-1_Report_Moein%20Shirdel.ipynb), [IPYNB Notebook for the second phase](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Neural%20Network/CA5-2_Report_Moein%20Shirdel.ipynb)
 
 ### Machine Learning: 
-Designed a system to estimate house prices based on their attributes. The system was trained by a dataset from Kaggle website containing several house prices and their features. For this purpose, the dataset was pre-processed, several machine learning models were tested, and their pros and cons were pointed out.
+Designed a system to estimate house prices based on their attributes. The system was trained by a dataset from Kaggle website containing several house prices and their features. For this purpose, the dataset was pre-processed, several machine learning models were tested, and their pros and cons were pointed out. The report (IPYNB Notebook) is available [here](https://github.com/moeinsh78/Artificial-Intelligence-Course-Projects/blob/master/Machine%20Learning/CA4.ipynb).
 
 ### NLP-Naive Bayes: 
 Designed a comment classifier to detect positive and negative sentiment in users’ comments based on the conditional probabilities calculated by ”Bag of Words” technique.
